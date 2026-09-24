@@ -12,6 +12,7 @@ project itself — so that "why is it like this?" always has a citable answer.
 |----:|-------|------|--------|
 | [1](xip-0001.md) | The XIP Process | Process | Active |
 | [2](xip-0002.md) | The Own-Node Pool Rule | Policy | Active |
+| [3](xip-0003.md) | Mainnet Genesis Parameters and Ceremony | Consensus | Draft |
 
 **Propose one:** copy [`xip-template.md`](xip-template.md), post it for
 discussion on [minedifferent.com/c/protocol](https://minedifferent.com/c/protocol)
